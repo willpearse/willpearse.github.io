@@ -59,7 +59,7 @@ programs, such as the EDGE of Existence Program, to help safeguard
 natural ecosystems and the valuable services they provide for
 humanity.
 
-**We are always looking for new undergraduates, MSc, and PhD students looking to join the lab, or potential post-docs interested in applying for funding. Have a look around this website and, if you're interested, please [send Will and email](mailto:will.pearse@usu.edu)**
+**We are always looking for new undergraduates, MSc, and PhD students looking to join the lab, or potential post-docs interested in applying for funding. Have a look around this website and, if you're interested, please [send Will an email](mailto:will.pearse@usu.edu)**
 
 We are grateful for funding from [Utah State University](http://www.usu.edu) (and in particular the [Ecology Center](https://ecology.usu.edu) and [Department of Biology](http://www.biology.usu.edu)), the [National Science Foundation](https://www.nsf.gov), the [USDA Forest Service](https://www.fs.fed.us) (and in particular the [PIBO program](https://www.fs.usda.gov/detail/r4/landmanagement/resourcemanagement/?cid=stelprd3845865)), and [iDIV/sDIV](https://www.idiv.de/sdiv.html). For more information, please see our [funding page](funding).
 

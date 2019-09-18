@@ -1,7 +1,8 @@
 
 - name: Austin Koontz
   photo: austin-koontz.jpg
-  info: My research interests include evolutionary biology, spatial ecology, and using genomic data to guide conservation efforts.
-  email: to@be.given
-  number_educ: 0
+  info: My research is centered around species delimitation genetics, and the usage of phylogenetic and molecular techniques to determine species boundaries.
+  email: austin.koontz@usu.edu
+  number_educ: 1
+  education1: <a href="https://akoontz11.github.io/">Website</a>
 
