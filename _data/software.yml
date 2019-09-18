@@ -1,0 +1,70 @@
+- title: "pez: phylogenetics for the environmental s(z)ciences"
+  image: pearse-2014-review.png
+  description: R package to calculate phylogenetic diversity metrics, Phylogenetic Generalized Linear Mixed Models, and more.
+  authors: Pearse WD, Cadotte MW, Cavender-Bares J, Ives AR, Tucker CM, Walker SC, Helmus MR
+  link:
+    url: https://academic.oup.com/bioinformatics/article/31/17/2888/183404
+    display:  Bioinformatics 31(17), 2888-2890
+  highlight: 1
+  news2:
+
+- title: "phyloGenerator: an automated phylogeny generation tool for ecologists"
+  image: phyloGenerator.png
+  description: Python (version 1) and Ruby (version 2) program that automates phylogeny construction. Awarded the Robert May Prize by the British Ecological Society.
+  authors: Pearse WD, Purvis A
+  link:
+    url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12055
+    display:  Methods in Ecology and Evolution 4(7), 692-698
+  highlight: 1
+  news2:
+
+- title: "Suppdata: downloading supplementary data from published manuscripts"
+  image: ropensci.png
+  description: R package to download the supplementary data from papers using only their DOI
+  authors: Pearse WD, Chamberlain SA, with vital contributions from <a href="https://nuest.staff.ifgi.de">Daniel Nüst</a>
+  link:
+    url: https://www.theoj.org/joss-papers/joss.00721/10.21105.joss.00721.pdf
+    display:  Journal of Open Source Software 3(25, 721
+  highlight: 1
+  news2:
+
+- title: "phest: phenology estimation"
+  image: pearse-2017-pullout.png
+  description: R package that calculates phenology estimators
+  authors: Pearse WD, Stemkovski M
+  link:
+    url: https://github.com/willpearse/phest
+    display: https://github.com/willpearse/phest
+  highlight: 1
+  news2:
+
+    
+- title: "MADtraits: Make A Database of traits"
+  image: natdb-coverage.png
+  description: R package that automates the download of over 4 million pieces of trait data
+  authors: <a href="https://usubionerdherd.github.io">The Bio Nerd Herd (run by the Pearse Lab)</a>
+  link:
+    url: https://github.com/willpearse/MADtraits
+    display: https://github.com/willpearse/MADtraits
+  highlight: 1
+  news2:
+    
+- title: "MADcomm: Make A Database of community data"
+  image: nacdb-coverage.png
+  description: R package that automates the download of over 16 million pieces of ecological community data
+  authors: <a href="https://usubionerdherd.github.io">The Bio Nerd Herd (run by the Pearse Lab)</a>
+  link:
+    url: https://github.com/willpearse/MADcomm
+    display: https://github.com/willpearse/MADcomm
+  highlight: 1
+  news2:
+
+- title: "Austin: MCMCMC for the brave"
+  image: austin-city.jpg
+  description: C++ Multiple Chain Monte Carlo Markov Chain. Really more of a toy, but useful for classwork
+  authors: Pearse WD
+  link:
+    url: https://github.com/willpearse/astin
+    display: https://github.com/willpearse/astin
+  highlight: 1
+  news2:

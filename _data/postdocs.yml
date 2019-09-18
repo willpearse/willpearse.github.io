@@ -1,0 +1,14 @@
+- name: Amanda Gallinat
+  photo: amanda-gallinat.jpg
+  info: I study the effects of environmental change on community interactions and phenology.
+  number_educ: 3
+  email: amanda.gallinat@usu.edu
+  education1: <a href="http://amandagallinat.com/">Website</a>
+  education2: <a href="https://twitter.com/amandagallinat">Twitter</a>
+  education3: <a href="http://www.amandagallinat.com/#/page-cv/">CV</a>
+
+- name: Katie Weglarz
+  photo: katie-weglarz.png
+  info: I am an entomologist who is broadly interested in interplay between species interactions, biodiversity, and evolution, and in issues related to broadening participation in STEM and higher education.
+  email: to@be.given
+  number_educ: 0

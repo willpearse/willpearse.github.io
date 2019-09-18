@@ -1,0 +1,14 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Austin Koontz
+  photo: austin-koontz.jpg
+  info: Master student
+  info: I received my BS in Neuroscience from University of Nevada, Reno in 2014. After graduation, I worked as an Applications Specialist for Hamilton Robotics, a laboratory automation company based in Reno, until May of 2018. My research interests include evolutionary biology, spatial ecology, and using genomic data to guide conservation efforts.

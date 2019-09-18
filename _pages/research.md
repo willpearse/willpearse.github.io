@@ -1,0 +1,26 @@
+---
+title: "Allan Lab - Research"
+layout: textlay
+excerpt: "Allan Lab -- Research"
+sitemap: false
+permalink: /research/
+---
+
+# Research
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/pearse-2014-review.png){: style="width: 300px; float: right; border: 10px"}
+<b>We use species' evolutionary history to better understand and predict their present-day ecology</b>. Our lab develops new statistical and computational tools to answer fundamental questions about the origins and future of biodiversity. Our fieldsites employ a novel fractal sampling design to leverage species' responses to existing environmental gradients to predict future responses to change. We work with a number of conservation programs, such as the EDGE of Existence Program, to help safeguard natural ecosystems and the valuable services they provide for humanity.
+
+<b>Theme 1: integrating species' evolution history and ecological interactions</b>. Biologists have long-recognised that present-day ecological processes operate within the context of past evolutionary history. Community ecologists have tried to incorporate evolutionary dynamics through eco-phylogenetic analyses, but the field has had difficult moving from correlative studies to generating mechanistic insights. To address this challenge, we develop software (e.g., the R package <i>pez</i> and the program <i>phyloGenerator</i>) to make it easier to fit joint models of the evolution of species' traits and their ecological interactions. This also helps us make predictions for species about which we only know their evolutionary history, which we use in conservation contexts. <br> <i>Relevant papers:</i> Eco-phylogenetic review \| Scaling review <br> <i>Potential student projects:</i> Use our MADecology data (see below) or fieldsites using the methods above. Now go collect even more data to test your ideas out!
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/edam-prime-uk.png){: style="width: 150px; float: left; border: 10px"}
+<b>Theme 2: Actionable conservation insights from evolutionary history</b>. Generating meaningful products for policy-makers requires not just innovative research ideas, but also serious engagement with stakeholders to determine their needs. Will Pearse is one of the co-leads of the Zoological Society of London's EDGE of Existence program 'EDGE 2.0'
+update. The EDGE program operates worldwide, and has trained >75 fellows working on >70 species in >40 countries. We also work with government agencies, such as the USDA Forest Service, to help prioritize restoration and conservation efforts. <br> <i>Relevant papers:</i> EDGE review \| PIBO project <br> <i>Potential student projects:</i> Pick a country or taxonomic group, and apply some of our conservation algorithms to that group. Now look to see if the results match the expectations and needs of policy makers, and adjust appropriately!
+
+<b>Theme 3: Natural history specimens, phenology, and morphology</b>. We are part of the Symbiota2 team, developing the next generation of software that powers the data stored in >750 natural history collections across the world. We are working to use that data to not just understand where species are found, but also the timing of their life-history events (their phenology) and their shape. We are beginning to use new statistical methods to examine the timing of events like migration and flower opening from museum specimens. Further, we are using the <i>stalkess</i> pipeline to examine changes in butterfly and plant morpology through time and across space.
+<br> <i>Relevant papers:</i> phenology & variance \| stalkless & morpology <br> <i>Potential student projects:</i> Are flowering times in [your favourite species] keeping track with changing climate? Where are they (not), and why?
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/pearse-2017-pullout.png){: style="width: 300px; float: right; border: 10px"}
+<b>Theme 4: Making A Database for ecology - MAD</b>. The last decade has seen a shift in how science views data: funders now require that data are released to facilitate synthetic
+analyses. Yet even with open data, it is difficult to make a database large enough to answer synthetic questions because data are often deposited in different repositories and formats. Further, researchers are reticent to release older data due to a perception that they will lose credit once their data are synthesised. Working with the Bio Nerd Herd here at USU, we are developing a software   ecosystem that unites discipline-specific networks via a common data   language to Make A Database (MAD) to permit synthetic and multidisciplinary analyses. MAD is a living software package that makes databases from existing online sources and fully credits data collectors. MAD represents a shift in data sharing: it is a distributed, on-demand software ecosystem, not a static data release that is unsustainable long-term. MAD currently loads >20 million pieces of data for users' immediate use.
+<br> <i>Relevant papers:</i> MADcomm website \| MADtraits website <br> <i>Potential student projects:</i> Pick a taxonomic group, or kind of data, that isn't currently in MAD. Fix that gap! Or use the data already in MAD to answer a new question.
