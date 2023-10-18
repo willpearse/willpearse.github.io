@@ -1,10 +1,40 @@
+- title: "AREAData: automatically updating epidemiological data pipeline"
+  image: AREAData.png
+  description: Daily climate and human data, automatically updated and released in a format to support epidemiological forecasting.
+  authors: TP Smith, M Stemkovski, A Koontz, WD Pearse
+  link:
+    url: https://pearselab.github.io/areadata/
+    display:  "Data in Brief 43: 108438"
+  highlight: 1
+  news2:
+
+- title: "Tyrell: COVID-19 toolkit"
+  image: tyrell-building.jpg
+  description: Internal reproducible data cleaning and analysis pipeline to support our funded COVID-19 work
+  authors: TP Smith, WD Pearse
+  link:
+    url: https://github.com/pearselab/
+    display:  "https://github.com/pearselab/"
+  highlight: 1
+  news2:
+
+- title: "SymbiotaR2: Symbiota2 R interface"
+  image: ropensci.png
+  description:  R Package for searching and downloading data stored in a Symbiota2 portal
+  authors: Koontz A, Brandt B, Dyreson C, and Pearse WD
+  link:
+    url: https://github.com/ropensci/SymbiotaR2
+    display:  "Journal of Open Source Software 5(56): 2917"
+  highlight: 1
+  news2:
+
 - title: "pez: phylogenetics for the environmental s(z)ciences"
   image: pearse-2014-review.png
   description: R package to calculate phylogenetic diversity metrics, Phylogenetic Generalized Linear Mixed Models, and more.
   authors: Pearse WD, Cadotte MW, Cavender-Bares J, Ives AR, Tucker CM, Walker SC, Helmus MR
   link:
     url: https://academic.oup.com/bioinformatics/article/31/17/2888/183404
-    display:  Bioinformatics 31(17), 2888-2890
+    display:  "Bioinformatics 31(17): 2888-2890"
   highlight: 1
   news2:
 
@@ -14,7 +44,7 @@
   authors: Pearse WD, Purvis A
   link:
     url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12055
-    display:  Methods in Ecology and Evolution 4(7), 692-698
+    display:  "Methods in Ecology and Evolution 4(7): 692-698"
   highlight: 1
   news2:
 
@@ -24,7 +54,7 @@
   authors: Pearse WD, Chamberlain SA, with vital contributions from <a href="https://nuest.staff.ifgi.de">Daniel Nüst</a>
   link:
     url: https://www.theoj.org/joss-papers/joss.00721/10.21105.joss.00721.pdf
-    display:  Journal of Open Source Software 3(25, 721
+    display:  "Journal of Open Source Software 3(25): 721"
   highlight: 1
   news2:
 

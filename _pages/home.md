@@ -19,27 +19,25 @@ and future of biodiversity.
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-		<li data-target="#carousel" data-slide-to="4"></li>
-
+	<li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/rhf-map-2019.png" alt="Slide 1" style="height:300px" />
-        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pearse-2017-pullout.png" alt="Slide 2"  style="height:300px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab-party-2023.png" alt="Lab party 2023"  style="height:300px"/>
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab-2022-pub.jpg" alt="Lab pub trip 2022" style="height:300px" />
+        </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/narwhal-lab.jpg" alt="Lab narwhal party"  style="height:300px"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pearse-2014-review.png" alt="Slide 3"  style="height:300px"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/rhf-dayone.jpg" alt="Slide 4"  style="height:300px"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/narwhal-lab.jpg" alt="Slide 5"  style="height:300px"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -61,12 +59,13 @@ humanity.
 
 **We are always looking for new undergraduates, MSc, and PhD students looking to join the lab, or potential post-docs interested in applying for funding. Have a look around this website and, if you're interested, please [send Will an email](mailto:will.pearse@usu.edu)**
 
-We are grateful for funding from [Utah State University](http://www.usu.edu) (and in particular the [Ecology Center](https://ecology.usu.edu) and [Department of Biology](http://www.biology.usu.edu)), the [National Science Foundation](https://www.nsf.gov), the [USDA Forest Service](https://www.fs.fed.us) (and in particular the [PIBO program](https://www.fs.usda.gov/detail/r4/landmanagement/resourcemanagement/?cid=stelprd3845865)), and [iDIV/sDIV](https://www.idiv.de/sdiv.html). For more information, please see our [funding page](funding).
+We are grateful for funding from [Imperial College London](https://www.imperial.ac.uk/life-sciences/), [UKRI/NERC](https://www.ukri.org/councils/nerc/), the [National Science Foundation](https://www.nsf.gov), the [USDA Forest Service](https://www.fs.fed.us) (and in particular the [PIBO program](https://www.fs.usda.gov/detail/r4/landmanagement/resourcemanagement/?cid=stelprd3845865)), and [iDIV/sDIV](https://www.idiv.de/sdiv.html), [Hitachi](https://www.hitachi.eu/en/press/imperial-college-london-and-hitachi-research-climate-solutions/), and others.
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/imperial-logo.png" style="width:150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ukri-nerc.png" style="height:80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.png" style="height:80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/forest-service.png" style="height:80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ecology-center.png" style="height:80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/usu-bio.png" style="width:200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/idiv.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hitachi-logo.svg" style="width: 100px">
 </figure>

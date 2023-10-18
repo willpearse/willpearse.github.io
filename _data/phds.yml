@@ -1,18 +1,25 @@
-- name: Elizabeth Simpson
-  photo: elizabeth-simpson.jpg
-  info: I study the ecological and evolutionary dynamics between and within species across physical gradients, like elevation, and in response to changing climate patterns.
-  email: 
+- name: Mahika Dixit
+  photo: mahika-dixit.jpg
+  info: Using machine learning to better conserve and understand butterflies and bees.
+  email: m.dixit20@imperial.ac.uk
+  education1: <a href="https://twitter.com/mahika_dixit">Twitter</a>
   number_educ: 0
 
-- name: Michael Stemkovski
-  photo: michael-stemkovski.jpg
-  info: ecology, modeling phenology and population dynamics, and predicting the effects of climate change using computational methods.
-  email: m.stemkovski@gmail.com
+- name: Rahim Dina
+  photo: rahim-dina.jpg
+  info: How are plants distributed and evolving across islands?
+  email: rahim.dina20@imperial.ac.uk
+  education1: <a href="https://twitter.com/itsdinatime">Twitter</a>
   number_educ: 0
 
-- name: Sylvia Kinosian
-  photo: sylvia-kinosian.jpg
-  info: My research examines different species of water sprite ferns, and I am producing the first monographic revision of their genus based on molecular markers.
-  email: sylvia.kinosian@aggiemail.usu.edu
-  number_educ: 1
-  education1: <a href="https://sylviakinosian.github.io">Website</a>
+- name: Nell Pates
+  photo: nell-pates.jpg
+  info: How can we measure biodiversity recovery across landscapes and in rewilded sites?
+  email: nell.pates20@imperial.ac.uk
+  number_educ: 0
+
+- name: Calum Pennington
+  photo: 
+  info: Using machine learning to better understand how populations' genes evolve.
+  email: c.pennington@imperial.ac.uk
+  number_educ: 0
