@@ -18,8 +18,14 @@
   email: nell.pates20@imperial.ac.uk
   number_educ: 0
 
-- name: Calum Pennington
-  photo: 
-  info: Using machine learning to better understand how populations' genes evolve.
-  email: c.pennington@imperial.ac.uk
+- name: Lucy Somekh
+  photo: will-pearse.jpg
+  info: How can we use evolutionary history to improve forecasts of ecosystem services?
+  email: your@email.com
+  number_educ: 0
+
+- name: Nathan Clark
+  photo: will-pearse.jpg
+  info: How can we use evolutionary history to improve forecasts of biodiversity's distribution?
+  email: your@email.com
   number_educ: 0
