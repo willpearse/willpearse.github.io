@@ -9,7 +9,8 @@ permalink: /
 We use species evolutionary history to better understand and predict
 their present-day ecology.  Our lab develops new statistical and
 computational tools to answer fundamental questions about the origins
-and future of biodiversity.
+and future of biodiversity, and applies those insights to improve
+human wellbeing.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -55,11 +56,29 @@ species' responses to existing environmental gradients to predict
 future responses to change. We work with a number of conservation
 programs, such as the EDGE of Existence Program, to help safeguard
 natural ecosystems and the valuable services they provide for
-humanity.
+humanity. We also maintain the [Ecological Fractal
+Network](https://ecofracnetwork.github.io/), a global network of >40
+researchers on every continent bar Antarctica seeking to better
+understand and preserve biodiversity worldwide.
 
-**We are always looking for new undergraduates, MSc, and PhD students looking to join the lab, or potential post-docs interested in applying for funding. Have a look around this website and, if you're interested, please [send Will an email](mailto:will.pearse@usu.edu)**
+We do not carry out academic research in a vacuum, but rather work
+directly with governments, charities, and the private sector to solve
+problems with biodiversity, health, and statistics/AI. If you have a
+problem you would like to solve, [please reach out directly to
+Will](mailto:will.pearse@imperial.ac.uk); for governments and
+charities we usually work _pro bono_ and for the private sector we
+make use of [Imperial's consultancy
+scheme](https://www.imperial.ac.uk/natural-sciences/find-an-expert/icon/)
+for shorter contracts or [Imperial's industry
+services](https://www.imperial.ac.uk/natural-sciences/find-an-expert/industry-partnerships-and-commercialisation/)
+for larger contracts.
 
-We are grateful for funding from [Imperial College London](https://www.imperial.ac.uk/life-sciences/), [UKRI/NERC](https://www.ukri.org/councils/nerc/), the [National Science Foundation](https://www.nsf.gov), the [USDA Forest Service](https://www.fs.fed.us) (and in particular the [PIBO program](https://www.fs.usda.gov/detail/r4/landmanagement/resourcemanagement/?cid=stelprd3845865)), and [iDIV/sDIV](https://www.idiv.de/sdiv.html), [Hitachi](https://www.hitachi.eu/en/press/imperial-college-london-and-hitachi-research-climate-solutions/), and others.
+We are always looking for new undergraduates, MSc, and PhD students
+looking to join the lab, or potential post-docs interested in applying
+for funding. Have a look around this website and, if you're
+interested, please [send Will an email](mailto:will.pearse@usu.edu)
+
+We are grateful for funding from [Imperial College London](https://www.imperial.ac.uk/life-sciences/), [UKRI/NERC](https://www.ukri.org/councils/nerc/), [UKRI/BBSRC](https://www.ukri.org/councils/bbsrc/), the [National Science Foundation](https://www.nsf.gov), the [USDA Forest Service](https://www.fs.fed.us) (and in particular the [PIBO program](https://www.fs.usda.gov/detail/r4/landmanagement/resourcemanagement/?cid=stelprd3845865)), and [iDIV/sDIV](https://www.idiv.de/sdiv.html), [Hitachi](https://www.hitachi.eu/en/press/imperial-college-london-and-hitachi-research-climate-solutions/), and others.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/imperial-logo.png" style="width:150px">

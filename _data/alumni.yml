@@ -1,6 +1,6 @@
 - name: Emma Moffett
   photo: emma-moffett.jpg
-  info: I seek to understand how traits, populations, communities and ecosystems will respond to rising and more variable temperatures.
+  info: <b>Post-doc.</b> I seek to understand how traits, populations, communities and ecosystems will respond to rising and more variable temperatures.
   number_educ: 2
   email: moffettemma@gmail.com
   education1: <a href="https://emma-moffett.weebly.com/">Website</a>
@@ -36,13 +36,6 @@
   email: 
   number_educ: 0
 
-
-- name: Elizabeth Simpson
-  photo: elizabeth-simpson.jpg
-  info: <b>PhD student.</b> I study the ecological and evolutionary dynamics between and within species across physical gradients, like elevation, and in response to changing climate patterns.
-  email: 
-  number_educ: 0
-
 - name: Michael Stemkovski
   photo: michael-stemkovski.jpg
   info: <b>PhD student.</b> ecology, modeling phenology and population dynamics, and predicting the effects of climate change using computational methods.
@@ -56,6 +49,32 @@
   number_educ: 1
   education1: <a href="https://sylviakinosian.github.io">Website</a>
 
+- name: Elizabeth Simpson
+  photo: elizabeth-simpson.jpg
+  info: <b>PhD student.</b> I study the ecological and evolutionary dynamics between and within species across physical gradients, like elevation, and in response to changing climate patterns.
+  email: 
+  number_educ: 0
+
+- name: Joel Gayford
+  photo: joel-gayford.png
+  info: <b>MSc/technician.</b> I'm broadly interested in evolution, ecology, and shark conservation.
+  email: sharkmeasurements@gmail.com
+  number_educ: 2
+  education1: <a href="https://www.sharkmeasurements.com/">Website</a>
+  education2: <a href="https://twitter.com/JoelGayford">Twitter</a>
+
+- name: Austin Koontz
+  photo: austin-koontz.jpg
+  info: <b>MSc/technician.</b> I study the diversification of species and how populations exchange genes.
+  email: austinkoontz11@gmail.com
+  number_educ: 0
+
+- name: Bodie Weedop
+  photo: bodie-weedop.jpg
+  info: <b>BSc/technician.</b> I try to improve the imputation of conservation prioritisation goals.
+  email: kbweedop@gmail.com
+  number_educ: 0
+
 - name: Mark Sneddon
   photo: mark-sneddon.jpg
   info: <b>Undergraduate.</b> I am an electrical engineering major who's interested in applying his mathematical skills to understand how populations of animals and plants are threatened across the globe.
@@ -67,4 +86,3 @@
   info: <b>Undergraduate.</b> I study morphology of beetles, and hopes to find a correlation between morphological evolution, clade diversification rate, and spatial distribution.
   email: 
   number_educ: 0
-
