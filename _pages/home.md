@@ -66,7 +66,7 @@ directly with governments, charities, and the private sector to solve
 problems with biodiversity, health, and statistics/AI. If you have a
 problem you would like to solve, [please reach out directly to
 Will](mailto:will.pearse@imperial.ac.uk); for governments and
-charities we usually work _pro bono_ and for the private sector we
+charities we usually work for free and for the private sector we
 make use of [Imperial's consultancy
 scheme](https://www.imperial.ac.uk/natural-sciences/find-an-expert/icon/)
 for shorter contracts or [Imperial's industry
