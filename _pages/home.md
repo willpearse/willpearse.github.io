@@ -61,13 +61,12 @@ Network](https://ecofracnetwork.github.io/), a global network of >40
 researchers on every continent bar Antarctica seeking to better
 understand and preserve biodiversity worldwide.
 
-We do not carry out academic research in a vacuum, but rather work
-directly with governments, charities, and the private sector to solve
-problems with biodiversity, health, and statistics/AI. If you have a
-problem you would like to solve, [please reach out directly to
+We work directly with governments, charities, and the private sector
+to solve problems with biodiversity, health, and statistics/AI. If you
+have a problem you would like to solve, [please reach out directly to
 Will](mailto:will.pearse@imperial.ac.uk); for governments and
-charities we usually work for free and for the private sector we
-make use of [Imperial's consultancy
+charities we usually work for free and for the private sector we make
+use of [Imperial's consultancy
 scheme](https://www.imperial.ac.uk/natural-sciences/find-an-expert/icon/)
 for shorter contracts or [Imperial's industry
 services](https://www.imperial.ac.uk/natural-sciences/find-an-expert/industry-partnerships-and-commercialisation/)
